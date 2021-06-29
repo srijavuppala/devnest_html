@@ -1,0 +1,85 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing : border-box;
+  }
+  h1{
+    font-size: 1.5rem;
+      width: 200px;
+      color: mediumblue;
+  }
+  p{
+        color: rgb(31, 141, 231);
+  }
+  .k,.timeline,.duration{
+    color: rgb(31, 141, 231);
+  }
+  
+  h2{
+    font-size: 1.2rem;
+    color: midnightblue;
+  }
+  h4{
+     font-size: 1rem;
+      color: rgb(31, 141, 231);
+  
+  }
+  
+  h3{
+    font-size:1rem;
+      width: 200px;
+      color: slateblue;
+     
+  }
+  .column{
+     
+    float: left;
+    width: 50%;
+  
+  }
+  
+  
+  
+  .column2{
+      margin-top: 10px;
+      padding: 20px;
+      position: absolute;
+      right: 10pt;
+      border-left: 2px solid rgb(33, 136, 255);
+      width: 50%;
+      height: 120vh;
+  }
+  .column1{
+      margin-top: 20px;
+      padding: 20px;
+      position: absolute;
+      left: 0pt;
+      width: 50%;
+      height: 120vh;
+  }
+  
+  .row{
+      background-color:  #ffffff;
+      margin-top: 50px;
+      border:3px solid rgb(31, 141, 231);
+      position: absolute;
+      left: 50%;
+      transform: translate(-50%);
+      width: 80vw;
+      height: 130vh;
+      border-radius: 0px;
+  }
+  .Box_top{
+      margin-top: 20px;
+      border-top:0px solid rgb(31, 141, 231) ;
+      border-right:0px solid rgb(31, 141, 231) ;
+      border-left:0px solid rgb(31, 141, 231) ;
+      width: 15vw;
+      position: absolute;
+      left: 52%;
+      transform: translate(-70%);
+      text-align: center;
+      background: rgb(255, 255, 255);
+     
+     
+  }
