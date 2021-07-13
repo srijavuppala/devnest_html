@@ -12,5 +12,6 @@ ALL OF PROJECTS WILL DEPLOY HERE
 1. [THA9](https://devnest-frontend-srijavuppala.netlify.app/tha9/q2)
 1. [THA11](https://devnest-frontend-srijavuppala.netlify.app/tha11/quiz)
 1. [THA12](https://devnest-frontend-srijavuppala.netlify.app/tha12/) 
-
+1. [THA13](https://devnest-frontend-srijavuppala.netlify.app/tha13/)
+1. [tha13-memes](https://devnest-frontend-srijavuppala.netlify.app/tha13-memes/index.html)
 
