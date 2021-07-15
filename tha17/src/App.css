@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.App {
+    display: grid;
+    grid-template-columns: auto;
+    justify-items: center;
+    height: 10%;
+    min-width: 60px;
+    padding-top: 15px;
+    padding: auto;
+}
+
+.cal {
+    width: 400px;
+    height: 400px;
+    padding: 10px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    box-shadow: 2px 3px 9px -1px #000;
+}
+
+.Card {
+    width: 90%;
+    background: #6b8e23;
+    padding: 50px;
+    margin: 12px;
+    border-radius: 5px;
+    box-shadow: 3px 1px 9px -1px #3d581a;
+}
